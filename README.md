@@ -23,8 +23,8 @@ This is a simple and elegant landing page for a real estate project, built using
 **1. Clone the repository**:
 
 ```
-git clone https://github.com/youngniccurace/.git
-cd landing-page
+git clone https://github.com/youngniccurace/Real-Estate-Landing-Page.git
+cd Real-Estate-Landing-Page
 ```
 
 **2. Open the project**:
@@ -51,7 +51,7 @@ Open the `index.html` file in your preferred web browser to view the landing pag
 
 ## Website Link
 
-Link: https://therealestatelandingpage.netlify.app/
+Link: https://the-real-estate-landing-page.netlify.app/
 
 ## Screenshots
 
